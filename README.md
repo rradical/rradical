@@ -1,8 +1,8 @@
 <h1 align="center">Hi there :wave:</h1>
 
-- :telescope: I’m currently working on basic Python applications
-- :seedling: I’m currently learning machine learning algorithms
-- 📫 Reach me: **rradical#9089**
+- :telescope: I’m currently working on: **basic Python applications**
+- :seedling: I’m currently learning: **Python and Swift**
+- 👨‍💻 I'm currently brushing up on: **my UX/UI skills**
 
 ## Social
 
