@@ -1,4 +1,6 @@
-<h1 align="center">Hi there :wave:</h1>
+# Hi there :wave:
+
+I'm Montana, and I currently work as a marketing director but I'm interested in learning programming.
 
 - :telescope: I’m currently working on: **basic Python applications**
 - :seedling: I’m currently learning: **Python and Swift**
