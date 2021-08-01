@@ -3,7 +3,7 @@
 I'm Montana, and I currently work as a marketing director but I'm interested in learning programming.
 
 - :telescope: I’m currently working on: **basic Python applications**
-- :seedling: I’m currently learning: **Python and Swift**
+- :seedling: I’m currently learning: **automation with Python**
 - 👨‍💻 I'm currently brushing up on: **my UX/UI skills**
 
 ## Social
